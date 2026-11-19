@@ -1,5 +1,8 @@
+/node_modules
+/public/build
 /public/foto_barang
 /storage/*.key
+/vendor
 .env
 .env.backup
 .env.production
